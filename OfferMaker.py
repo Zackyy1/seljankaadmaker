@@ -6,6 +6,7 @@ from random import randint
 import random
 from flask import jsonify
 from flask import Flask
+from flask import request
 import redis
 import requests
 import re
